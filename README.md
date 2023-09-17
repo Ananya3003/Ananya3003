@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ananya3003
-- 👀 I’m interested in UI/UX Design
-- 🌱 I’m currently pursuing B.E. in Computer Engineering
+- 👀 I’m interested in HRM & UI/UX Design
+- 🌱 Currently pursuing B.E. in Computer Engineering
 - 📫 How to reach me - Through LinkedIn!
 
 <!---
